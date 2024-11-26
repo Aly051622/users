@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = ""; // Ensure this is correct; it looks like you're using no password
-$dbname = "parkingz";
+$dbname = "parkingsystem";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password, $dbname);
